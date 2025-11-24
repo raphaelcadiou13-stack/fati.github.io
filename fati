@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Bienvenue</title>
+  </head>
+  <body>
+    <h1>Bienvenue sur le site de Fati !</h1>
+    <p>Ceci est ma première page web.</p>
+  </body>
+</html>
